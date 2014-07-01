@@ -6,19 +6,31 @@
  - 1 week playoff
 
 
-##Team vs Team Match Format
+##Team vs Team: Match Format
  - Team vs team
  - Each match is Best of 5 sets
+ - Each set is a Best of 5 games between two players
  - The 4th set is always played, even if the same team wins first 3 sets
  - 5th set is only played if a winner has not been determined
- - Each set is a Best of 5 games between two players
 
-###Player vs Player Set
+
+####Class Immunities
+ - Teams will alternate selecting one class per set that is immune to bans
+ - First immunity pick is selected randomly
+ - There is no immunity for the 5th set
+
+###Player vs Player: Set Format
  - Each player has 3 decks of 3 different classes
  - Winner keeps the same deck between games
  - Losers pick a new deck
- - Each player gets 1 class ban
- - Classes can be banned after a game loss
+ - Oppopnent deck lists are not revealed before the set
+
+
+####Class Bans During
+ - Players get 1 class ban per set
+ - Players may use their ban after losing a game
+ - Players may ban any class except the immune class
+
 
 ##Tournament Format
 ###Swiss rounds
