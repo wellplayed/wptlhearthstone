@@ -1,10 +1,10 @@
+#Format
 ##Basics
  - 6 teams
  - Minimum 4 players per team
  - 4 weeks total
  - 3 weeks of swiss
  - 1 week playoff
-
 
 ##Team vs Team: Match Format
  - Team vs team
@@ -13,19 +13,8 @@
  - The 4th set is always played, even if the same team wins first 3 sets
  - 5th set is only played if a match winner has not been determined
 
-####Class Immunities
- - Teams will alternate selecting one class per set that is immune to bans
- - Class immunities are picked at the start of the match
- - First immunity pick is selected randomly
- - There is no immunity for the 5th set
-
-###Player selection
- - Teams provide admins with the order their players will play in
- - Player list is provided after class immunities have been done
- - Player lists are not revealed to opponents
-
 ###Player vs Player: Set Format
- - Each player has 3 decks of 3 different classes
+ - Each player has 4 decks of 4 different classes
  - Winner keeps the same deck between games
  - Losers pick a new deck
  - Oppopnent deck lists are not revealed before the set
@@ -33,17 +22,29 @@
 ####Class Bans
  - Players get 1 class ban per set
  - Players may use their ban after losing a game
- - Players may ban any class except the immune class for that set
+ - Players may ban any class except the class that has "immunity" for that set
+
+####Class Immunities
+ - Teams will alternate selecting one class per set that is immune to bans
+ - Class immunities are picked at the start of the match
+ - First immunity pick is selected randomly
+ - There is no immunity for the 5th set
+
+###Player selection
+ - Teams provide admins with the order their first 4 players will play in
+ - Teams may not reuse players before the 5th set
+ - Player for the 5th set is provided after the 4th game, and only if required
+ - Player list is provided after class immunities have been done
+ - Player lists are not revealed to opponents
+
 
 ##Tournament Format
 ###Swiss rounds
  - Three rounds of Swiss
  - Random seeding for first week
- - Teams play the team with the closest score in the following weeks
+ - Teams then play the team with the closest record in the following weeks
  - Top 4 teams advance to playoffs
  - Extra matches will be played in case of tiebreakers
- - All matches Best of 5 sets
- - Each set is Best of 5 games
 
 ###Playoffs
  - Teams are seeded based on Swiss round records
@@ -53,5 +54,12 @@
 
 ###Grand Finals
  - No winners bracket advantage
- - Best of 9 sets
- - Each set is Best of 5
+ - Best of 7 sets
+ - Each set is Best of 5 games
+
+#Rules
+##Lateness
+
+##Roster
+
+###Substitutes
