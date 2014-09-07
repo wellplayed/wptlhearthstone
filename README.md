@@ -17,7 +17,7 @@
  - Each player has 4 decks of 4 different classes
  - Winner keeps the same deck between games
  - Losers pick a new deck
- - Oppopnent deck lists are not revealed before the set
+ - Opponent deck lists are not revealed before the set
 
 ####Class Bans
  - Players get 1 class ban per set
@@ -33,8 +33,8 @@
 ###Player selection
  - Teams provide admins with the order their first 4 players will play in
  - Teams may not reuse players before the 5th set
- - Player for the 5th set is provided after the 4th game, and only if required
- - Player list is provided after class immunities have been done
+ - Player for the 5th set is provided after the 4th set, and only if required
+ - Player list is provided after class immunities have been selected
  - Player lists are not revealed to opponents
 
 
@@ -59,7 +59,13 @@
 
 #Rules
 ##Lateness
+ - For the first match of the day, players will be considered late after the scheduled time to start streaming. This time will be before the listed schedule on the tournament website, to account for stream delay.
+ - For the following matches, players will be considered late 10 minutes after the completion of the previous match.
+
+###Penalties
+ - After 5 minutes players will forfeit the first game of the set
+ - After 10 minutes players will forfeit their match 
 
 ##Roster
-
-###Substitutes
+ - Teams must field a minimum of 4 players
+ - Teams may have a maximum of 6 players. This count applies to members who leave the tournament throughout.
