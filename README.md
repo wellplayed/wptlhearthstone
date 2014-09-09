@@ -69,3 +69,12 @@
 ##Roster
  - Teams must field a minimum of 4 players
  - Teams may have a maximum of 6 players. This count applies to members who leave the tournament throughout.
+
+---
+
+#Open Qualifier
+ - Register as a team of 2 players
+ - Swiss format
+ - Teams will play each other in a Bo3 of Bo3s
+ - Teams will compete until there are two top teams
+ - Those two teams will be merged to form the final team for the main event
