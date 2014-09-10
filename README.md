@@ -57,6 +57,19 @@
  - Best of 7 sets
  - Each set is Best of 5 games
 
+#Schedule
+If the schedule below conflicts with the tournament website, the website's schedule is correct.
+
+##Swiss Play
+ - Oct 11th/12th, Oct 18th/19th, Oct 25th/26th
+ - Starts 15:00 GMT
+ - Two matches Saturday, one match Sunday
+
+##Finals
+ - Oct 31st/Nov 1st/Nov 2nd
+ - Starts 15:00 GMT
+ - Two matches per day
+
 #Rules
 ##Lateness
  - For the first match of the day, players will be considered late after the scheduled time to start streaming. This time will be before the listed schedule on the tournament website, to account for stream delay.
