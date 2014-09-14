@@ -1,17 +1,14 @@
 #Format
 ##Basics
- - 6 teams
+ - 8 teams
  - Minimum 4 players per team
- - 4 weeks total
- - 3 weeks of swiss
- - 1 week playoff
-
+ - 3 weekends total
+ - Double elimination
+ 
 ##Team vs Team: Match Format
- - Team vs team
+ - Team vs team is a match
  - Each match is Best of 5 sets
  - Each set is a Best of 5 games between two players
- - The 4th set is always played, even if the same team wins first 3 sets
- - 5th set is only played if a match winner has not been determined
 
 ###Player vs Player: Set Format
  - Each player has 4 decks of 4 different classes
@@ -37,38 +34,25 @@
  - Player list is provided after class immunities have been selected
  - Player lists are not revealed to opponents
 
-
 ##Tournament Format
-###Swiss rounds
- - Three rounds of Swiss
- - Random seeding for first week
- - Teams then play the team with the closest record in the following weeks
- - Top 4 teams advance to playoffs
- - Extra matches will be played in case of tiebreakers
-
-###Playoffs
- - Teams are seeded based on Swiss round records
- - Double elimination until grand finals
- - All matches Best of 5 sets
- - Each set is Best of 5 games
+ - Double elimination
+ - Random seeding
 
 ###Grand Finals
- - No winners bracket advantage
- - Best of 7 sets
- - Each set is Best of 5 games
+ - Team coming from Winners Bracket gets to pick first two immunities
 
 #Schedule
 If the schedule below conflicts with the tournament website, the website's schedule is correct.
 
-##Schedule: Swiss Play
- - Oct 11th/12th, Oct 18th/19th, Oct 25th/26th
- - Starts 15:00 GMT
- - Two matches Saturday, one match Sunday
+ - Sat Oct 11th: Winners Round 1 Match 1 & 2
+ - Sun Oct 12th: Winners Round 1 Match 3 & 4
 
-##Schedule: Finals
- - Oct 31st/Nov 1st/Nov 2nd
- - Starts 15:00 GMT
- - Two matches per day
+ - Sat Oct 18th: Winners Round 2 Match 1 & 2
+ - Sun Oct 19th: Losers Round 1 Match 1 & 2
+
+ - Fri Oct 24th: Losers Round 2 Match 1 & 2
+ - Sat Oct 25th: Losers Round 3 & Winners Final
+ - Sun Oct 26th: Losers Final & Grand Finals
 
 #Rules
 ##Lateness
@@ -89,5 +73,18 @@ If the schedule below conflicts with the tournament website, the website's sched
  - Register as a team of 2 players
  - Swiss format
  - Teams will play each other in a Bo3 of Bo3s
- - Teams will compete until there are two top teams
- - Those two teams will be merged to form the final team for the main event
+ - Teams will compete until there are 4 top teams
+ - Those 4 teams will be merged to form the final 2 teams for the main event
+
+##Match Format
+ - Team vs team is best of 3 sets
+ - Each set is a Bo3 games between two players
+ - Players get one class ban before the match starts
+ - Winner keeps the same deck, loser chooses a new deck
+ - If a 3rd set is required, new bans are done
+
+##Player Selection
+ - The two players with the highest Battle.net ID number from each team play each other
+ - The remaining two players on each team play each other
+ - If a third match is required, both teams select one player
+ 
