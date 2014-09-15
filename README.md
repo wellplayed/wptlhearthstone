@@ -6,8 +6,11 @@
  - Double elimination
 
 ##Prize Pool
- - Total: $6,000 USD
- - 1st: 
+ - Total: $6000 USD
+ - 1st: $3000
+ - 2nd: $1500
+ - 3rd: $900
+ - 4th: $600
  
 ##Team vs Team: Match Format
  - Team vs team is a match
