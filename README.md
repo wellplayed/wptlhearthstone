@@ -4,6 +4,10 @@
  - Minimum 4 players per team
  - 3 weekends total
  - Double elimination
+
+##Prize Pool
+ - Total: $6,000 USD
+ - 1st: 
  
 ##Team vs Team: Match Format
  - Team vs team is a match
@@ -65,13 +69,15 @@ If the schedule below conflicts with the tournament website, the website's sched
 
 ##Roster
  - Teams must field a minimum of 4 players
- - Teams may have a maximum of 6 players. This count applies to members who leave the tournament throughout.
+ - Teams may have a maximum of 6 players.
+ - Players may add 1 player to their roster between weekends
 
 ---
 
 #Open Qualifier
  - Register as a team of 2 players
  - Swiss format
+ - Random seeding
  - Teams will play each other in a Bo3 of Bo3s
  - Teams will compete until there are 4 top teams
  - Those 4 teams will be merged to form the final 2 teams for the main event
@@ -86,5 +92,6 @@ If the schedule below conflicts with the tournament website, the website's sched
 ##Player Selection
  - The two players with the highest Battle.net ID number from each team play each other
  - The remaining two players on each team play each other
- - If a third match is required, both teams select one player
+ - If a third match is required, both teams blindly select one player to play
+ - Bans are redone for the third game
  
