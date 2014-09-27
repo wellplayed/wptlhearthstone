@@ -43,9 +43,13 @@
 ##Tournament Format
  - Single elimination
  - Random seeding
+ - No 3rd place match
 
 ###Grand Finals
- - Grand finals will be a Bo5o7.
+ - Grand finals will be a Bo7 matches
+ - Teams will still blind pick their first 4 players in the order they will play
+ - If further matches are needed, teams will blind pick their next player a per set basis
+ - Players may only play a maximum of 2 sets
 
 #Schedule
 If the schedule below conflicts with the tournament website, the website's schedule is correct.
