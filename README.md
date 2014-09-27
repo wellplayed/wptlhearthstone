@@ -2,15 +2,14 @@
 ##Basics
  - 8 teams
  - Minimum 4 players per team
- - 3 weekends total
- - Double elimination
+ - 2 weekends total
+ - Single elimination
 
 ##Prize Pool
- - Total: $6000 USD
+ - Total: $5000 USD
  - 1st: $3000
- - 2nd: $1500
- - 3rd: $900
- - 4th: $600
+ - 2nd: $1200
+ - 3rd/4th: $400
  
 ##Team vs Team: Match Format
  - Team vs team is a match
@@ -42,24 +41,20 @@
  - Player lists are not revealed to opponents
 
 ##Tournament Format
- - Double elimination
+ - Single elimination
  - Random seeding
 
 ###Grand Finals
- - Team coming from Winners Bracket gets to pick first two immunities
+ - Grand finals will be a Bo5o7.
 
 #Schedule
 If the schedule below conflicts with the tournament website, the website's schedule is correct.
 
- - Sat Oct 11th: Winners Round 1 Match 1 & 2
- - Sun Oct 12th: Winners Round 1 Match 3 & 4
+ - Sat Oct 18th: Round of 8 Match 1 & 2
+ - Sun Oct 19th: Round of 8 Match 3 & 4
 
- - Sat Oct 18th: Winners Round 2 Match 1 & 2
- - Sun Oct 19th: Losers Round 1 Match 1 & 2
-
- - Fri Oct 24th: Losers Round 2 Match 1 & 2
- - Sat Oct 25th: Losers Round 3 & Winners Final
- - Sun Oct 26th: Losers Final & Grand Finals
+ - Sat Oct 25th: Semi Final 1 & 2
+ - Sun Oct 26th: Grand Finals
 
 #Rules
 ##Lateness
